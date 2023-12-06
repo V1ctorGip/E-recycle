@@ -28,10 +28,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 E-Recycle é um projeto cujo objetivo é a conscientização da população de Palmas-TO, no que tange a coleta do lixo eletrônico na cidade e a ligação direta com as entidades que fazem este tipo de serviço.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESTE LINK](https://app.flutterflow.io/preview/e-recycle-0np38e?page=Home).É necessário ter uma conta no FlutterFlow [NESTE LINK](https://flutterflow.io)
-
 ## 🖊️ Licença
 
 Este projeto é licenciado sob a licença MIT.
